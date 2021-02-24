@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FileAndJSON.iml" filepath="$PROJECT_DIR$/.idea/modules/FileAndJSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/CSVFiles/FileAndJSON.lesson1-CSVFiles.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/CSVFiles/FileAndJSON.lesson1-CSVFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/CSVFiles/FileAndJSON.lesson1-CSVFiles.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/CSVFiles/FileAndJSON.lesson1-CSVFiles.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/CSVFiles/FileAndJSON.lesson1-CSVFiles.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/CSVFiles/FileAndJSON.lesson1-CSVFiles.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/JSONFiles/FileAndJSON.lesson1-JSONFiles.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/JSONFiles/FileAndJSON.lesson1-JSONFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/JSONFiles/FileAndJSON.lesson1-JSONFiles.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/JSONFiles/FileAndJSON.lesson1-JSONFiles.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/JSONFiles/FileAndJSON.lesson1-JSONFiles.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/JSONFiles/FileAndJSON.lesson1-JSONFiles.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/REST_APIs/FileAndJSON.lesson1-REST_APIs.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/REST_APIs/FileAndJSON.lesson1-REST_APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/REST_APIs/FileAndJSON.lesson1-REST_APIs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/REST_APIs/FileAndJSON.lesson1-REST_APIs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/REST_APIs/FileAndJSON.lesson1-REST_APIs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/REST_APIs/FileAndJSON.lesson1-REST_APIs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/FileAndJSON.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/FileAndJSON.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/FileAndJSON.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/FileAndJSON.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/FileAndJSON.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/FileAndJSON.util.test.iml" />
+    </modules>
+  </component>
+</project>
